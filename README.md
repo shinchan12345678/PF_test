@@ -17,13 +17,15 @@
 - テイクアウトを始めたものの、集客に困っている飲食店オーナー
 
 ### 主な利用シーン
-**カスタマー**
-- テイクアウトできるお店を地図上で検索できる。また気に入ったお店をフォローできる
-<br>
-**オーナー**
-- テイクアウト情報を地図上に投稿できる。フォロワーにクーポンやテイクアウト営業情報を通知できる
+<dl>
+  <dt><カスタマー></dt>
+  <dd>テイクアウトできるお店を地図上で検索できる。また気に入ったお店をフォローできる</dd>
+  <dt><オーナー></dt>
+  <dd>テイクアウト情報を地図上に投稿できる。フォロワーにクーポンやテイクアウト営業情報を通知できる</dd>
+</dl>
 
 ## 設計書
+<iframe src="https://docs.google.com/presentation/d/1gBb6U5Lix7jlb7D9mA5X4yuqPwmoJxYugJtntSuYhGg/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" loading="lazy"></iframe>
 <...>
 
 ## 開発環境
