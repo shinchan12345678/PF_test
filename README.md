@@ -25,8 +25,7 @@
 </dl>
 
 ## 設計書
-<iframe src="https://docs.google.com/presentation/d/1gBb6U5Lix7jlb7D9mA5X4yuqPwmoJxYugJtntSuYhGg/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" loading="lazy"></iframe>
-<...>
+<script async class="speakerdeck-embed" data-id="f41af42d719b40529cdd96e393c410e6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## 開発環境
 - OS：Linux(CentOS)
