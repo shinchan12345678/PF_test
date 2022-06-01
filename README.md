@@ -27,7 +27,7 @@
 </dl>
 
 ## 設計書
-
+<script async class="speakerdeck-embed" data-id="2d4fe4c3993f40ab85d5a32618a6b01f" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## 開発環境
 - OS：Linux(CentOS)
