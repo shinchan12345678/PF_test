@@ -1,5 +1,8 @@
-<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/2d4fe4c3993f40ab85d5a32618a6b01f" title="_202204_クラシックズ_観光用.pdf" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 315px;" data-ratio="1.7777777777777777"></iframe>
-<script async class="speakerdeck-embed" data-id="2d4fe4c3993f40ab85d5a32618a6b01f" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
+<h1>
+aaa
+</h1>
+
+
 # お弁当ステーション（仮）
 
 ## サイトの概要
@@ -27,7 +30,7 @@
 </dl>
 
 ## 設計書
-<script async class="speakerdeck-embed" data-id="2d4fe4c3993f40ab85d5a32618a6b01f" data-ratio="1.77725118483412" src="//speakerdeck.com/assets/embed.js"></script>
+
 
 ## 開発環境
 - OS：Linux(CentOS)
